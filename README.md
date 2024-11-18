@@ -16,11 +16,6 @@ Cada entrada está estructurada en una sección HTML y estilizada mediante CSS.
 - **index.html**: Contiene el contenido HTML principal de la página, incluyendo el encabezado, el cuerpo con las entradas del blog, y el pie de página.
 - **style.css**: Archivo CSS que define el diseño del blog, incluyendo estilos para el encabezado, los artículos, el pie de página y las imágenes.
 
-## Estilos Clave
-
-- Se utiliza una paleta de colores que incluye un fondo principal de tono azul.
-- Imágenes con bordes redondeados y dimensiones ajustables, maximizadas a 300px de ancho.
-- Estilo centrado en el encabezado y el pie de página, con márgenes para una buena separación visual entre los elementos.
 
 ## Visualización
 
